@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/web/index.html</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/web/MovieTicketBook.wsdl</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/web/MovieTicketBook_schema1.xsd</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/web/META-INF/context.xml</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/src/java/MovieTicketModel/MovieTicketBook_handler.xml</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/src/java/MovieTicketModel/Utility.java</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/src/java/MovieTicketModel/myMessageHandler.java</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/src/java/MovieTicketModel/MovieInfo.java</file>
+            <file>file:/D:/codedv/SOAP-Webservice-Movie-ticket-booking-master/MovieTicketBooking/src/java/MovieTicketModel/MovieTicketBook.java</file>
+        </group>
+    </open-files>
+</project-private>
